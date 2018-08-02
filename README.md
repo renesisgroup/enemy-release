@@ -1,3 +1,3 @@
 # Renesis GPU Miner CUDA
 
-Well crafted release by the ledendary modder "Enemy" =)
+Well crafted Linux release by the ledendary modder "Enemy" =)
